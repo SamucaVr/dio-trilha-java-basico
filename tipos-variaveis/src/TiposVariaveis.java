@@ -20,5 +20,8 @@ public class TiposVariaveis {
     
         // Variável Cadeia de caracteres
         String meuNome = "Samuel"; // Valor mínimo: 0; Valor máximo: 2147483647.
+
+        // Constante
+        final double VALOR_DE_PI = 3.14;
     }
 }
