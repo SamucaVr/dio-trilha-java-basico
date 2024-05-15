@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 classe-string/.vscode/settings.json
+operadores/.vscode/settings.json
+operadores/Operador-de-atribuicao/.vscode/settings.json
